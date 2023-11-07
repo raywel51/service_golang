@@ -1,4 +1,4 @@
-module playground
+module serviceGO
 
 go 1.21.3
 
